@@ -18,9 +18,9 @@ typeof null
 'true'
 ```
 
-```
-Countries I have Travelled To:
-```
+
+# Countries I have Travelled To:
+
 - Canada
 - India
 - Portugal
@@ -28,9 +28,9 @@ Countries I have Travelled To:
 - Costa Rica
 - Mexico
 
-```
-Inline Code Reference:
-```
+
+# Inline Code Reference:
+
 ` s.trim() `
 
 
